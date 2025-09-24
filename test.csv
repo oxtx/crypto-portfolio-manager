@@ -1,0 +1,4 @@
+external_tx_id,token_symbol,tx_type,amount,occurred_at
+tx1,BTC,BUY,0.005,2024-10-01T12:00:00Z
+tx2,ETH,BUY,0.2,2024-10-01T12:05:00Z
+tx3,BTC,SELL,0.001,2024-10-02T09:00:00Z
