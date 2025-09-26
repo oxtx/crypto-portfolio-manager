@@ -1,4 +1,4 @@
-# alongCrypto Portfolio Manager
+# Crypto Portfolio Manager
 
 Minimal backend scaffold for:
 - Importing crypto transactions (CSV)
